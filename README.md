@@ -2,6 +2,9 @@
 
 Anomaly detection is the process of identifying unexpected items or events in data sets. It’s about detecting the deviation from expected pattern of a dataset. It’s like having “spidey senses” for your apps that can detect when there’s danger or something is not right. Attend this session and learn about using anomaly detection in ML.NET, Azure Stream Analytics and Cognitive Services API, become a superhero and save the day.
 
+## Read more at:
+[Hackster Project Page](https://www.hackster.io/RONDAGDAG/spidey-senses-anomaly-detection-f477e7)
+
 ## Here's the presentation slides
 [Presentation](SpideySense-Anomaly.pdf)
 
