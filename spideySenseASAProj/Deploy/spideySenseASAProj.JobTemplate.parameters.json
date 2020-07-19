@@ -1,0 +1,78 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "ASAApiVersion": {
+            "value": "2017-04-01-preview"
+        },
+        "StreamAnalyticsJobName": {
+            "value": "spideySenseASAProj"
+        },
+        "Location": {
+            "value": "Central US"
+        },
+        "OutputStartMode": {
+            "value": "JobStartTime"
+        },
+        "OutputStartTime": {
+            "value": "2019-01-01T00:00:00Z"
+        },
+        "DataLocale": {
+            "value": "en-US"
+        },
+        "OutputErrorPolicy": {
+            "value": "Stop"
+        },
+        "EventsLateArrivalMaxDelayInSeconds": {
+            "value": 5
+        },
+        "EventsOutOfOrderMaxDelayInSeconds": {
+            "value": 0
+        },
+        "EventsOutOfOrderPolicy": {
+            "value": "Adjust"
+        },
+        "StreamingUnits": {
+            "value": 3
+        },
+        "CompatibilityLevel": {
+            "value": "1.2"
+        },
+        "Input_IoTHubInput_iotHubNamespace": {
+            "value": "spidey-sense-iot-hub"
+        },
+        "Input_IoTHubInput_consumerGroupName": {
+            "value": "$Default"
+        },
+        "Input_IoTHubInput_endpoint": {
+            "value": "messages/events"
+        },
+        "Input_IoTHubInput_sharedAccessPolicyName": {
+            "value": "iothubowner"
+        },
+        "Input_IoTHubInput_sharedAccessPolicyKey": {
+            "value": null
+        },
+        "Output_BlobOutput_Storage1_accountName": {
+            "value": "spidesenseblob"
+        },
+        "Output_BlobOutput_Storage1_accountKey": {
+            "value": null
+        },
+        "Output_BlobOutput_container": {
+            "value": "container1"
+        },
+        "Output_BlobOutput_pathPattern": {
+            "value": "output"
+        },
+        "Output_BlobOutput_dateFormat": {
+            "value": "yyyy/MM/dd"
+        },
+        "Output_BlobOutput_timeFormat": {
+            "value": "HH"
+        },
+        "Output_BlobOutput_authenticationMode": {
+            "value": "ConnectionString"
+        }
+    }
+}

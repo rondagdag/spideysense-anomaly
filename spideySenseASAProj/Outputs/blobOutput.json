@@ -1,0 +1,25 @@
+{
+    "Name": "BlobOutput",
+    "DataSourceType": "Blob Storage",
+    "BlobStorageProperties": {
+        "StorageAccounts": [
+            {
+                "AccountName": "spidesenseblob",
+                "AccountKey": null
+            }
+        ],
+        "Container": "container1",
+        "PathPattern": "output",
+        "DateFormat": "yyyy/MM/dd",
+        "TimeFormat": "HH",
+        "AuthenticationMode": "ConnectionString"
+    },
+    "DataSourceCredentialDomain": "bd511076-9842-4dac-b9e3-521cc2397bfd.StreamAnalystics",
+    "Serialization": {
+        "Type": "Json",
+        "Encoding": "UTF8",
+        "FieldDelimiter": null,
+        "Format": "LineSeparated"
+    },
+    "ScriptType": "Output"
+}

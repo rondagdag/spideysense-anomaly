@@ -1,0 +1,705 @@
+{
+    "granularity": "minutely",
+    "series": [
+        {
+            "messageId": 1,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 22.37410220507436,
+            "humidity": 67.14295041924528,
+            "enqueuedTimeUtc": "2020-07-11T01:43:09.775Z"
+        },
+        {
+            "messageId": 2,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 28.375182989711604,
+            "humidity": 66.40608141253838,
+            "enqueuedTimeUtc": "2020-07-11T01:44:09.773Z"
+        },
+        {
+            "messageId": 3,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 21.960680058249352,
+            "humidity": 65.91657796814661,
+            "enqueuedTimeUtc": "2020-07-11T01:45:09.786Z"
+        },
+        {
+            "messageId": 4,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.65734886985868,
+            "humidity": 68.16170778132803,
+            "enqueuedTimeUtc": "2020-07-11T01:46:09.774Z"
+        },
+        {
+            "messageId": 5,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.038750472476938,
+            "humidity": 74.78233546584597,
+            "enqueuedTimeUtc": "2020-07-11T01:47:09.782Z"
+        },
+        {
+            "messageId": 6,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 22.55236506512891,
+            "humidity": 75.56181663709887,
+            "enqueuedTimeUtc": "2020-07-11T01:48:09.779Z"
+        },
+        {
+            "messageId": 7,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 26.238265408432135,
+            "humidity": 67.74963903910154,
+            "enqueuedTimeUtc": "2020-07-11T01:49:09.775Z"
+        },
+        {
+            "messageId": 8,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 31.64713464912453,
+            "humidity": 67.38211870713708,
+            "enqueuedTimeUtc": "2020-07-11T01:50:09.780Z"
+        },
+        {
+            "messageId": 9,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 28.335843946312316,
+            "humidity": 60.627968487149516,
+            "enqueuedTimeUtc": "2020-07-11T01:51:09.774Z"
+        },
+        {
+            "messageId": 10,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 31.25173694740459,
+            "humidity": 66.98731995774482,
+            "enqueuedTimeUtc": "2020-07-11T01:52:09.774Z"
+        },
+        {
+            "messageId": 11,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 23.041084960865163,
+            "humidity": 63.56207874484149,
+            "enqueuedTimeUtc": "2020-07-11T01:53:09.774Z"
+        },
+        {
+            "messageId": 12,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.38172667637256,
+            "humidity": 62.167817349836476,
+            "enqueuedTimeUtc": "2020-07-11T01:54:09.779Z"
+        },
+        {
+            "messageId": 13,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 26.887515968079658,
+            "humidity": 78.62274964282177,
+            "enqueuedTimeUtc": "2020-07-11T01:55:09.779Z"
+        },
+        {
+            "messageId": 14,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 21.285611068237632,
+            "humidity": 63.223820935477036,
+            "enqueuedTimeUtc": "2020-07-11T01:56:09.786Z"
+        },
+        {
+            "messageId": 15,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.008882684001215,
+            "humidity": 68.47252013847631,
+            "enqueuedTimeUtc": "2020-07-11T01:57:09.777Z"
+        },
+        {
+            "messageId": 16,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 29.148173910767092,
+            "humidity": 73.47151952031878,
+            "enqueuedTimeUtc": "2020-07-11T01:58:09.772Z"
+        },
+        {
+            "messageId": 17,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.556238451799732,
+            "humidity": 75.97173866184491,
+            "enqueuedTimeUtc": "2020-07-11T01:59:09.785Z"
+        },
+        {
+            "messageId": 18,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.266436306099063,
+            "humidity": 60.77332267632514,
+            "enqueuedTimeUtc": "2020-07-11T02:00:09.786Z"
+        },
+        {
+            "messageId": 19,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 21.773712584645104,
+            "humidity": 63.73008445500354,
+            "enqueuedTimeUtc": "2020-07-11T02:01:09.778Z"
+        },
+        {
+            "messageId": 20,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 21.358036035249675,
+            "humidity": 75.58383962296558,
+            "enqueuedTimeUtc": "2020-07-11T02:02:09.783Z"
+        },
+        {
+            "messageId": 21,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 27.371527966242756,
+            "humidity": 69.76983115488963,
+            "enqueuedTimeUtc": "2020-07-11T02:03:09.773Z"
+        },
+        {
+            "messageId": 22,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.46288721471553,
+            "humidity": 67.57411321276219,
+            "enqueuedTimeUtc": "2020-07-11T02:04:09.774Z"
+        },
+        {
+            "messageId": 23,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.17767058889102,
+            "humidity": 63.57677070919243,
+            "enqueuedTimeUtc": "2020-07-11T02:05:09.779Z"
+        },
+        {
+            "messageId": 24,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 28.248520682444695,
+            "humidity": 67.26740256890572,
+            "enqueuedTimeUtc": "2020-07-11T02:06:09.788Z"
+        },
+        {
+            "messageId": 25,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 27.622292090291523,
+            "humidity": 75.1569122170753,
+            "enqueuedTimeUtc": "2020-07-11T02:07:09.787Z"
+        },
+        {
+            "messageId": 26,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 24.87140533629075,
+            "humidity": 66.4306633693461,
+            "enqueuedTimeUtc": "2020-07-11T02:08:09.781Z"
+        },
+        {
+            "messageId": 27,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 31.823164769209058,
+            "humidity": 73.9793368281441,
+            "enqueuedTimeUtc": "2020-07-11T02:09:09.776Z"
+        },
+        {
+            "messageId": 28,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.528304277632117,
+            "humidity": 77.75698696003849,
+            "enqueuedTimeUtc": "2020-07-11T02:10:09.786Z"
+        },
+        {
+            "messageId": 29,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 29.102818042440713,
+            "humidity": 79.1481115222704,
+            "enqueuedTimeUtc": "2020-07-11T02:11:09.780Z"
+        },
+        {
+            "messageId": 30,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 31.730170668789405,
+            "humidity": 76.29113798802307,
+            "enqueuedTimeUtc": "2020-07-11T02:12:09.775Z"
+        },
+        {
+            "messageId": 31,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.485038667994033,
+            "humidity": 77.9974169176769,
+            "enqueuedTimeUtc": "2020-07-11T02:13:09.781Z"
+        },
+        {
+            "messageId": 32,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 31.851073459112662,
+            "humidity": 64.71683112947355,
+            "enqueuedTimeUtc": "2020-07-11T02:14:09.783Z"
+        },
+        {
+            "messageId": 33,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 29.363803467592803,
+            "humidity": 63.14972901989954,
+            "enqueuedTimeUtc": "2020-07-11T02:15:09.782Z"
+        },
+        {
+            "messageId": 34,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.82750206544067,
+            "humidity": 78.51956677481951,
+            "enqueuedTimeUtc": "2020-07-11T02:16:09.776Z"
+        },
+        {
+            "messageId": 35,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 22.770764119061326,
+            "humidity": 69.0819170337266,
+            "enqueuedTimeUtc": "2020-07-11T02:17:09.779Z"
+        },
+        {
+            "messageId": 36,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 23.342932454233555,
+            "humidity": 77.03781253705947,
+            "enqueuedTimeUtc": "2020-07-11T02:18:09.780Z"
+        },
+        {
+            "messageId": 37,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 23.48439084155282,
+            "humidity": 73.09941947600667,
+            "enqueuedTimeUtc": "2020-07-11T02:19:09.780Z"
+        },
+        {
+            "messageId": 38,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 26.804509011463658,
+            "humidity": 70.62485858577799,
+            "enqueuedTimeUtc": "2020-07-11T02:20:09.773Z"
+        },
+        {
+            "messageId": 39,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 22.03803133128518,
+            "humidity": 66.1409351258379,
+            "enqueuedTimeUtc": "2020-07-11T02:21:09.785Z"
+        },
+        {
+            "messageId": 40,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 28.90519953326286,
+            "humidity": 78.29285397293624,
+            "enqueuedTimeUtc": "2020-07-11T02:22:09.779Z"
+        },
+        {
+            "messageId": 41,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 29.660330980107926,
+            "humidity": 75.45702427778052,
+            "enqueuedTimeUtc": "2020-07-11T02:23:09.781Z"
+        },
+        {
+            "messageId": 42,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.283441520650513,
+            "humidity": 66.58293823240801,
+            "enqueuedTimeUtc": "2020-07-11T02:24:09.785Z"
+        },
+        {
+            "messageId": 43,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 31.177071473334298,
+            "humidity": 76.32340616985908,
+            "enqueuedTimeUtc": "2020-07-11T02:25:09.784Z"
+        },
+        {
+            "messageId": 44,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 26.99441615938568,
+            "humidity": 66.88723519151729,
+            "enqueuedTimeUtc": "2020-07-11T02:26:09.781Z"
+        },
+        {
+            "messageId": 45,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 26.04875642996777,
+            "humidity": 68.56253710258666,
+            "enqueuedTimeUtc": "2020-07-11T02:27:09.777Z"
+        },
+        {
+            "messageId": 46,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.18261432608351,
+            "humidity": 76.6837527095229,
+            "enqueuedTimeUtc": "2020-07-11T02:28:09.780Z"
+        },
+        {
+            "messageId": 47,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 27.047365301166955,
+            "humidity": 60.74471165889379,
+            "enqueuedTimeUtc": "2020-07-11T02:29:09.776Z"
+        },
+        {
+            "messageId": 48,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 24.60432078277711,
+            "humidity": 71.60347966758602,
+            "enqueuedTimeUtc": "2020-07-11T02:30:09.782Z"
+        },
+        {
+            "messageId": 49,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 23.882084636872438,
+            "humidity": 74.14005750806481,
+            "enqueuedTimeUtc": "2020-07-11T02:31:09.785Z"
+        },
+        {
+            "messageId": 50,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.798162844287965,
+            "humidity": 77.94736574680664,
+            "enqueuedTimeUtc": "2020-07-11T02:32:10.266Z"
+        },
+        {
+            "messageId": 51,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.65744515597068,
+            "humidity": 67.22972095297152,
+            "enqueuedTimeUtc": "2020-07-11T02:33:10.264Z"
+        },
+        {
+            "messageId": 52,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 21.21076782895155,
+            "humidity": 65.30165211819637,
+            "enqueuedTimeUtc": "2020-07-11T02:34:10.271Z"
+        },
+        {
+            "messageId": 53,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.327531548891532,
+            "humidity": 76.04920729005343,
+            "enqueuedTimeUtc": "2020-07-11T02:35:10.263Z"
+        },
+        {
+            "messageId": 54,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.56283374850667,
+            "humidity": 71.98938394458574,
+            "enqueuedTimeUtc": "2020-07-11T02:36:10.266Z"
+        },
+        {
+            "messageId": 55,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.58588568835742,
+            "humidity": 66.35052377951885,
+            "enqueuedTimeUtc": "2020-07-11T02:37:10.281Z"
+        },
+        {
+            "messageId": 56,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 28.413610748642068,
+            "humidity": 77.13875705242921,
+            "enqueuedTimeUtc": "2020-07-11T02:38:10.265Z"
+        },
+        {
+            "messageId": 57,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 21.3912571850094,
+            "humidity": 74.74278722810868,
+            "enqueuedTimeUtc": "2020-07-11T02:39:10.275Z"
+        },
+        {
+            "messageId": 58,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 29.13216186152279,
+            "humidity": 60.32009704787046,
+            "enqueuedTimeUtc": "2020-07-11T02:40:10.271Z"
+        },
+        {
+            "messageId": 59,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.497668306177026,
+            "humidity": 61.95625466175141,
+            "enqueuedTimeUtc": "2020-07-11T02:41:10.263Z"
+        },
+        {
+            "messageId": 60,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.507219326608784,
+            "humidity": 65.01785030478318,
+            "enqueuedTimeUtc": "2020-07-11T02:42:10.264Z"
+        },
+        {
+            "messageId": 61,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 27.377206909595923,
+            "humidity": 73.08959379050657,
+            "enqueuedTimeUtc": "2020-07-11T02:43:10.264Z"
+        },
+        {
+            "messageId": 62,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 21.287685182460468,
+            "humidity": 65.49378349174033,
+            "enqueuedTimeUtc": "2020-07-11T02:44:10.267Z"
+        },
+        {
+            "messageId": 63,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 26.45594230224307,
+            "humidity": 60.38810617816405,
+            "enqueuedTimeUtc": "2020-07-11T02:45:10.262Z"
+        },
+        {
+            "messageId": 64,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 28.899382332647534,
+            "humidity": 67.87563628717538,
+            "enqueuedTimeUtc": "2020-07-11T02:46:10.264Z"
+        },
+        {
+            "messageId": 65,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.333350466719224,
+            "humidity": 61.01192921753685,
+            "enqueuedTimeUtc": "2020-07-11T02:47:10.268Z"
+        },
+        {
+            "messageId": 66,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 31.89453489383181,
+            "humidity": 67.36774175121492,
+            "enqueuedTimeUtc": "2020-07-11T02:48:10.264Z"
+        },
+        {
+            "messageId": 67,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 28.414976578770265,
+            "humidity": 68.04207031128222,
+            "enqueuedTimeUtc": "2020-07-11T02:49:10.264Z"
+        },
+        {
+            "messageId": 68,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.83206269257329,
+            "humidity": 78.76700978820189,
+            "enqueuedTimeUtc": "2020-07-11T02:50:10.275Z"
+        },
+        {
+            "messageId": 69,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 23.835819610037806,
+            "humidity": 65.00404344251305,
+            "enqueuedTimeUtc": "2020-07-11T02:51:10.263Z"
+        },
+        {
+            "messageId": 70,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 27.4943203068121,
+            "humidity": 65.34526019553982,
+            "enqueuedTimeUtc": "2020-07-11T02:52:10.263Z"
+        },
+        {
+            "messageId": 71,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.199662473275723,
+            "humidity": 75.28301003625353,
+            "enqueuedTimeUtc": "2020-07-11T02:53:10.276Z"
+        },
+        {
+            "messageId": 72,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.130058435902594,
+            "humidity": 62.1985175712023,
+            "enqueuedTimeUtc": "2020-07-11T02:54:10.267Z"
+        },
+        {
+            "messageId": 73,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 31.714403204033076,
+            "humidity": 61.951566583639554,
+            "enqueuedTimeUtc": "2020-07-11T02:55:10.264Z"
+        },
+        {
+            "messageId": 74,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.679653581057426,
+            "humidity": 70.13634307218823,
+            "enqueuedTimeUtc": "2020-07-11T02:56:10.265Z"
+        },
+        {
+            "messageId": 75,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 26.09443020099065,
+            "humidity": 66.35586947361655,
+            "enqueuedTimeUtc": "2020-07-11T02:57:10.263Z"
+        },
+        {
+            "messageId": 76,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.2519447699248,
+            "humidity": 64.08801342517171,
+            "enqueuedTimeUtc": "2020-07-11T02:58:10.275Z"
+        },
+        {
+            "messageId": 77,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.790467639249847,
+            "humidity": 61.0240999005248,
+            "enqueuedTimeUtc": "2020-07-11T02:59:10.275Z"
+        },
+        {
+            "messageId": 78,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.457855680970386,
+            "humidity": 73.90690587552967,
+            "enqueuedTimeUtc": "2020-07-11T03:00:10.263Z"
+        },
+        {
+            "messageId": 79,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 28.403131823694153,
+            "humidity": 76.61664606962034,
+            "enqueuedTimeUtc": "2020-07-11T03:01:10.265Z"
+        },
+        {
+            "messageId": 80,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 22.230425368364784,
+            "humidity": 75.41516369998199,
+            "enqueuedTimeUtc": "2020-07-11T03:02:10.265Z"
+        },
+        {
+            "messageId": 81,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.29495160690531,
+            "humidity": 79.23304855922015,
+            "enqueuedTimeUtc": "2020-07-11T03:03:10.267Z"
+        },
+        {
+            "messageId": 82,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 21.998864775359927,
+            "humidity": 70.73316752635102,
+            "enqueuedTimeUtc": "2020-07-11T03:04:10.263Z"
+        },
+        {
+            "messageId": 83,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.01725719218205,
+            "humidity": 69.50714976829389,
+            "enqueuedTimeUtc": "2020-07-11T03:05:10.265Z"
+        },
+        {
+            "messageId": 84,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.11232056094221,
+            "humidity": 69.01780462953906,
+            "enqueuedTimeUtc": "2020-07-11T03:06:10.271Z"
+        },
+        {
+            "messageId": 85,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 24.947379904166436,
+            "humidity": 72.87060484002285,
+            "enqueuedTimeUtc": "2020-07-11T03:07:10.270Z"
+        },
+        {
+            "messageId": 86,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 25.919879164435542,
+            "humidity": 76.82541856634664,
+            "enqueuedTimeUtc": "2020-07-11T03:08:10.274Z"
+        },
+        {
+            "messageId": 87,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 28.31838859988711,
+            "humidity": 66.16665006712272,
+            "enqueuedTimeUtc": "2020-07-11T03:09:10.263Z"
+        },
+        {
+            "messageId": 88,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.820532629957675,
+            "humidity": 60.944041745346205,
+            "enqueuedTimeUtc": "2020-07-11T03:10:10.264Z"
+        },
+        {
+            "messageId": 89,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 24.87472135094972,
+            "humidity": 64.76666216597977,
+            "enqueuedTimeUtc": "2020-07-11T03:11:10.269Z"
+        },
+        {
+            "messageId": 90,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.585433668075826,
+            "humidity": 78.33110835766114,
+            "enqueuedTimeUtc": "2020-07-11T03:12:10.273Z"
+        },
+        {
+            "messageId": 91,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 26.778595644246757,
+            "humidity": 79.12378705202462,
+            "enqueuedTimeUtc": "2020-07-11T03:13:10.265Z"
+        },
+        {
+            "messageId": 92,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.627356362051028,
+            "humidity": 63.22223961247092,
+            "enqueuedTimeUtc": "2020-07-11T03:14:10.263Z"
+        },
+        {
+            "messageId": 93,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 21.867539605793365,
+            "humidity": 60.919816312789706,
+            "enqueuedTimeUtc": "2020-07-11T03:15:10.267Z"
+        },
+        {
+            "messageId": 94,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 26.80408735352378,
+            "humidity": 74.7202717826079,
+            "enqueuedTimeUtc": "2020-07-11T03:16:10.269Z"
+        },
+        {
+            "messageId": 95,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.151263268340905,
+            "humidity": 72.55013149733634,
+            "enqueuedTimeUtc": "2020-07-11T03:17:09.784Z"
+        },
+        {
+            "messageId": 96,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 26.927001460816385,
+            "humidity": 79.4776216420319,
+            "enqueuedTimeUtc": "2020-07-11T03:18:10.263Z"
+        },
+        {
+            "messageId": 97,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.60764632199914,
+            "humidity": 62.557282171756356,
+            "enqueuedTimeUtc": "2020-07-11T03:19:10.274Z"
+        },
+        {
+            "messageId": 98,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 20.971207549850156,
+            "humidity": 74.5821710221916,
+            "enqueuedTimeUtc": "2020-07-11T03:20:10.270Z"
+        },
+        {
+            "messageId": 99,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 30.04910558282424,
+            "humidity": 77.76318711208592,
+            "enqueuedTimeUtc": "2020-07-11T03:21:10.263Z"
+        },
+        {
+            "messageId": 100,
+            "deviceId": "Raspberry Pi Web Client",
+            "temperature": 31.904812919568414,
+            "humidity": 66.55603610695128,
+            "enqueuedTimeUtc": "2020-07-11T03:22:10.276Z"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "spideySenseASAProj",
+    "startFile": "spideySenseASAProj.asaql",
+    "configurations": [
+        {
+            "filePath": "JobConfig.json",
+            "subType": "JobConfig"
+        },
+        {
+            "filePath": "Outputs/blobOutput.json",
+            "subType": "Output"
+        },
+        {
+            "filePath": "Inputs/IoTHubInput.json",
+            "subType": "Input"
+        },
+        {
+            "filePath": "Inputs/Local_Input.json",
+            "subType": "InputMock"
+        }
+    ]
+}

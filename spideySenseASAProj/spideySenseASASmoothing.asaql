@@ -1,0 +1,26 @@
+WITH SmootheningStep AS
+(
+    SELECT
+    EVENTENQUEUEDUTCTIME AS time,
+        AVG(CAST(temperature as float)) as temp
+    FROM IoTHubInput
+    GROUP BY TUMBLINGWINDOW(second, 5)
+),
+AnomalyDetectionStep AS
+(
+    SELECT
+    time,
+    temp,
+    AnomalyDetection_SpikeAndDip(temp, 70, 120, 'spikesanddips') 
+        OVER(LIMIT DURATION(second, 120)) as SpikeAndDipScores
+    FROM SmootheningStep
+)
+SELECT
+    time,
+    temp,
+    CAST(GetRecordPropertyValue(SpikeAndDipScores, 'Score') AS FLOAT) As
+    SpikeAndDipScore,
+    CAST(GetRecordPropertyValue(SpikeAndDipScores, 'IsAnomaly') AS BIGINT) AS
+    IsSpikeAndDipAnomaly
+INTO BlobOutput
+FROM AnomalyDetectionStep
