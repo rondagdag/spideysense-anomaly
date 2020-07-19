@@ -33,4 +33,4 @@ Define live input and live output
 ## Cognitive Services Anomaly Detector
 
 Click on the link to run in binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rondagdag/spideysense-anomaly/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rondagdag/spideysense-anomaly/master?filepath=AnomalyDetector%2FBatchAnomalyDetectorAPI.ipynb)
