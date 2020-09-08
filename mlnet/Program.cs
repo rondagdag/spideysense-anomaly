@@ -6,6 +6,37 @@ using Microsoft.ML.Data;
 
 namespace TempHumidityAnomalyDetection
 {
+    public class InitialTempHumidityData
+    {
+        //"messageId","deviceId","temperature","humidity","enqueuedTimeUtc"
+        [LoadColumn(2)]
+        public string InputTemperature;
+        
+        [LoadColumn(3)]
+        public string InputHumidity;
+
+        [LoadColumn(4)]
+        public string InputEnqueuedTimeUtc;
+
+    }
+
+    // <SnippetDeclareTypes>
+    public class TempHumidityData : InitialTempHumidityData
+    {
+
+        public float Temperature;
+        
+        public float Humidity;
+
+    }
+
+    public class TempHumidityPrediction
+    {
+        //vector to hold alert,score,p-value values
+        [VectorType(3)]
+        public double[] Prediction { get; set; }
+    }
+
     class Program
     {
         // <SnippetDeclareGlobalVariables>
@@ -29,13 +60,13 @@ namespace TempHumidityAnomalyDetection
              }, DataKind.Single);
 
             var transformer = pipeline.Fit(data);
-            // Transforming the same data. This will add the 4 columns defined in
+            // Transforming the same data. This will add the 2 columns defined in
             // the pipeline, containing the converted
             // values of the initial columns. 
             var transformedData = transformer.Transform(data);
 
-            var convertedData = mlContext.Data.CreateEnumerable<TempHumidityData>(
-                transformedData, true);
+            // var convertedData = mlContext.Data.CreateEnumerable<TempHumidityData>(
+            //     transformedData, true);
 
             // Spike detects pattern temporary changes
             DetectSpike(mlContext, transformedData);
