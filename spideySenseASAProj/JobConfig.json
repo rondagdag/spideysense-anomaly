@@ -10,8 +10,16 @@
     "UseSystemAssignedIdentity": false,
     "GlobalStorage": {
         "AccountName": null,
-        "AccountKey": null
+        "AccountKey": null,
+        "AuthenticationMode": "ConnectionString"
     },
     "DataSourceCredentialDomain": null,
-    "Tags": {}
+    "Tags": {},
+    "CustomCodeStorage": {
+        "AccountName": null,
+        "AccountKey": null,
+        "ContainerName": null,
+        "Path": "UserCustomCode.zip"
+    },
+    "ContentStoragePolicy": "SystemAccount"
 }
