@@ -82,7 +82,7 @@ namespace TempHumidityAnomalyDetection
             var iidSpikeEstimator = mlContext.Transforms.DetectIidSpike(
                 outputColumnName: nameof(TempHumidityPrediction.Prediction),
                 inputColumnName: nameof(TempHumidityData.Temperature), 
-                confidence: 95, pvalueHistoryLength: 25 );
+                confidence: 95.0, pvalueHistoryLength: 25 );
 
             // STEP 3: Create the transform
             // Create the spike detection transform
@@ -120,7 +120,7 @@ namespace TempHumidityAnomalyDetection
             var iidChangePointEstimator = mlContext.Transforms.DetectIidChangePoint(
                 outputColumnName: nameof(TempHumidityPrediction.Prediction), 
                 inputColumnName: nameof(TempHumidityData.Temperature), 
-                confidence: 90, 
+                confidence: 90.0, 
                 changeHistoryLength: 15);
 
             //STEP 3: Create the transform
